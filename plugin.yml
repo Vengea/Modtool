@@ -1,0 +1,8 @@
+main: com.vengea.modtool.Main
+version: 1.0
+name: Modtool
+commands:
+  modtool:
+    description: Shows the modtool
+  togglemute:
+    description: Toggle the chat mode
